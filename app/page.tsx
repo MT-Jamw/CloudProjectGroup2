@@ -8,6 +8,7 @@ const colors = [
   { name: 'Green', hex: '#00FF00' },
   { name: 'Yellow', hex: '#FFFF00' },
   { name: 'Purple', hex: '#800080' },
+  { name: 'Primary', hex: '#4F46E5' },
 ];
 
 export default function Home() {
